@@ -1,0 +1,7 @@
+{
+  "name": "myresumebasic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
